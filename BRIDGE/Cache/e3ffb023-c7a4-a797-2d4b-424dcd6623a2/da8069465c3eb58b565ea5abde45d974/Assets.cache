@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    c7d6a05f-cf69-4a63-970a-587376afc9ff: e3ffb023-c7a4-a797-2d4b-424dcd6623a2/da8069465c3eb58b565ea5abde45d974/Data/ComicNeue-Regular.ttf
+  Assets:
+    - !<Font/c7d6a05f-cf69-4a63-970a-587376afc9ff>
+      PackagePath: ""
+  SourceHash: da8069465c3eb58b565ea5abde45d974
+  FileHash: 864af3d89eb80dd4e1e184eafff1da0b
+  NativePackageItems:
+    []

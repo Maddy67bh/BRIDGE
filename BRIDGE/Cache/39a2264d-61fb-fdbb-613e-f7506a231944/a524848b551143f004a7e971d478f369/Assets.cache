@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    593fdda3-deae-44d9-8c7d-4f59b64ec282: 39a2264d-61fb-fdbb-613e-f7506a231944/a524848b551143f004a7e971d478f369/Data/GochiHand-Regular.ttf
+  Assets:
+    - !<Font/593fdda3-deae-44d9-8c7d-4f59b64ec282>
+      PackagePath: ""
+  SourceHash: a524848b551143f004a7e971d478f369
+  FileHash: a52209b073888b06ed510bc7bcafff75
+  NativePackageItems:
+    []

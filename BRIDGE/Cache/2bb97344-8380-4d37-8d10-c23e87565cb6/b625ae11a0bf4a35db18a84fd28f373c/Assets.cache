@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    8383973d-a45f-451f-844e-41e2d16f5979: 2bb97344-8380-4d37-8d10-c23e87565cb6/b625ae11a0bf4a35db18a84fd28f373c/Data/Limelight-Regular.ttf
+  Assets:
+    - !<Font/8383973d-a45f-451f-844e-41e2d16f5979>
+      PackagePath: ""
+  SourceHash: b625ae11a0bf4a35db18a84fd28f373c
+  FileHash: 50e81fb70f9078ec647c0bc145ef8e69
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9e563304-fd09-4f27-b1a3-bedefda2a4a5: 95ef5a3b-3608-fc5a-0df5-8cb5fd3d834d/58f73de71f88b1186fee2d12acbecda9/Data/Align.png
+  Assets:
+    - !<FileTexture/9e563304-fd09-4f27-b1a3-bedefda2a4a5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 96
+        Height: 96
+  SourceHash: 58f73de71f88b1186fee2d12acbecda9
+  FileHash: 8c7da4e78d42941f3195755ebef6bbbe
+  NativePackageItems:
+    []

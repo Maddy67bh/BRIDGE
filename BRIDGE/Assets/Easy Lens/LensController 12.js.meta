@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/622c9dbd-2c21-464d-915f-38d21aa9d249>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 63f82fa0-5c4c-477b-b117-3b875c2fbe97
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 63f82fa0-5c4c-477b-b117-3b875c2fbe97
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 04a15f6e-1951-43a1-9a56-41f2f90f6a9d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/04a15f6e-1951-43a1-9a56-41f2f90f6a9d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 91b46d41-03d2-4729-9198-9efdd1e00c55
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bridge_canvas: false
+    linkspace_hint: false
+    linkspace_subtitle: false
+    linkspace_title: false
+    message_input_text: false
+    sik_tap_safety: false
+    touch_events: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bridge_canvas: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_title: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_subtitle: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_hint: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      message_input_text: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      sik_tap_safety: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      touch_events: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

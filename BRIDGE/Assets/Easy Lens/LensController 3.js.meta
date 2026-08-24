@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/6c8bf8c1-b44a-4391-a1db-ee0098a0ead7>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> b023e348-9f2c-4820-9bd1-e88dac56e7f5
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> b023e348-9f2c-4820-9bd1-e88dac56e7f5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 0f00d2c4-39e9-4a9d-963c-6397884c22cb
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/0f00d2c4-39e9-4a9d-963c-6397884c22cb>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d1cc2cb4-5d1c-4ff2-b1c2-52adc3b42046
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bridge_canvas: false
+    bridge_instructions: false
+    bridge_title: false
+    sik_tap_safety: false
+    touch_events: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bridge_title: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      bridge_instructions: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      bridge_canvas: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      touch_events: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      sik_tap_safety: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

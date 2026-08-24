@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    2e32353a-ba1a-45e7-83fd-d0e93188f29d: 939e4479-b561-bc3e-314d-fc342c78de3f/a8aef5d3590d75e245104bf4d70c9b3b/Data/CanvasAPI.md
+  Assets:
+    - !<MarkdownAsset/2e32353a-ba1a-45e7-83fd-d0e93188f29d>
+      PackagePath: ""
+  SourceHash: a8aef5d3590d75e245104bf4d70c9b3b
+  FileHash: bbce6fc6bb26352113fca2b7fe310bf1
+  NativePackageItems:
+    []

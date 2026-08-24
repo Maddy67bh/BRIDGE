@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    99bb1547-a9c9-43dd-b01d-c8f698433d2e: 69f68828-76c1-99b5-b148-96e857ecd643/abc9c11990ae72649f61dcc2d1e3e9de/Data/Font.png
+  Assets:
+    - !<FileTexture/99bb1547-a9c9-43dd-b01d-c8f698433d2e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 96
+        Height: 96
+  SourceHash: abc9c11990ae72649f61dcc2d1e3e9de
+  FileHash: ab1b43497c024cb899a4ac6594f60cf3
+  NativePackageItems:
+    []

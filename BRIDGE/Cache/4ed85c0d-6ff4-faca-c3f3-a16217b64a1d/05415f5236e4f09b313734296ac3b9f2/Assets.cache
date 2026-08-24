@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d35ec3ad-9240-4c1d-bfc2-f17e93e0fcda: 4ed85c0d-6ff4-faca-c3f3-a16217b64a1d/05415f5236e4f09b313734296ac3b9f2/Data/Custom.png
+  Assets:
+    - !<FileTexture/d35ec3ad-9240-4c1d-bfc2-f17e93e0fcda>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 320
+        Height: 320
+  SourceHash: 05415f5236e4f09b313734296ac3b9f2
+  FileHash: b65fdf2e3288a0ea8aba631f60482c75
+  NativePackageItems:
+    []

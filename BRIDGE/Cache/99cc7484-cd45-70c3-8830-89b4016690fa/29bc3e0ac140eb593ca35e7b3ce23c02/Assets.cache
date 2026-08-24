@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    026a9ffd-f967-4afa-b0f7-7b9b78dab2ce: 99cc7484-cd45-70c3-8830-89b4016690fa/29bc3e0ac140eb593ca35e7b3ce23c02/Data/Rochester-Regular.ttf
+  Assets:
+    - !<Font/026a9ffd-f967-4afa-b0f7-7b9b78dab2ce>
+      PackagePath: ""
+  SourceHash: 29bc3e0ac140eb593ca35e7b3ce23c02
+  FileHash: 89587e155fb96c2e95379a2665a14181
+  NativePackageItems:
+    []

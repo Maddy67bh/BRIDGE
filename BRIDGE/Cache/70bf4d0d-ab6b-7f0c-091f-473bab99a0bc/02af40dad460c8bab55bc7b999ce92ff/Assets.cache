@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    ebd4bdcb-794d-4a59-8c96-cacc3d3594fd: 70bf4d0d-ab6b-7f0c-091f-473bab99a0bc/02af40dad460c8bab55bc7b999ce92ff/Data/Oswald-Regular.ttf
+  Assets:
+    - !<Font/ebd4bdcb-794d-4a59-8c96-cacc3d3594fd>
+      PackagePath: ""
+  SourceHash: 02af40dad460c8bab55bc7b999ce92ff
+  FileHash: 947b09dbd21781cf6c42262978a30845
+  NativePackageItems:
+    []

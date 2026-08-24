@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d97c38af-f1b7-404a-b824-f4e271337a04: dfaac297-a1c0-01da-c494-6536a1188f08/1fb66e2cde9363411e733aa917cf34ab/Data/OdibeeSans-Regular.ttf
+  Assets:
+    - !<Font/d97c38af-f1b7-404a-b824-f4e271337a04>
+      PackagePath: ""
+  SourceHash: 1fb66e2cde9363411e733aa917cf34ab
+  FileHash: 67dec12e3085ac9cda227a39cb222ea5
+  NativePackageItems:
+    []

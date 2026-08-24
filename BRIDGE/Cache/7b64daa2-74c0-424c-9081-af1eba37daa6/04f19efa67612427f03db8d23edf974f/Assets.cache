@@ -1,0 +1,588 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: 04f19efa67612427f03db8d23edf974f
+  FileHash: d8bcb83063d01181bb519020c304d61a
+  NativePackageItems:
+    - !<own> 4a9bfa77-0ee7-f88a-8a05-43c69e8bf59f
+    - !<own> 939e4479-b561-bc3e-314d-fc342c78de3f
+    - !<own> 632a4e7d-62fc-6b24-a8c0-09f1d4490f9f
+    - !<own> dda912ff-8421-1950-c784-6017b67c4532
+    - !<own> ad0dabf4-ae6a-f5ec-0a1d-cef79d2e986d
+    - !<own> b157dd97-5e87-26dd-2322-d99b0804ca96
+    - !<own> e3ffb023-c7a4-a797-2d4b-424dcd6623a2
+    - !<own> 39a2264d-61fb-fdbb-613e-f7506a231944
+    - !<own> f569204a-43ca-01ba-7da2-c1982e96903b
+    - !<own> dfaac297-a1c0-01da-c494-6536a1188f08
+    - !<own> ed919abe-95ce-560e-bf61-1d556c4fdffa
+    - !<own> 70bf4d0d-ab6b-7f0c-091f-473bab99a0bc
+    - !<own> 99cc7484-cd45-70c3-8830-89b4016690fa
+    - !<own> 73ff202d-c347-24f5-77d2-4a21e7390872
+    - !<own> 479c24c7-0551-7127-de93-d72619e43ebd
+    - !<own> 9f2ad42c-12a1-c5dc-7dd0-f0e066d65dc0
+    - !<own> f206ab57-3068-5f6a-3f67-04e406e1957b
+    - !<own> 423d7fa3-1f51-5113-9a67-ca27490f93b5
+    - !<own> 0c4d8315-d51c-768b-43d8-a0e65602665d
+    - !<own> a8b0f839-e691-3bea-4143-9b76a5ec5f7b
+    - !<own> f1b30e47-785e-9932-1b3e-b064888f3102
+    - !<own> 31776c4d-d3c4-bbc6-b40f-9f80340adf99
+    - !<own> dc25e4a7-7ee2-a0b1-1f25-26047a586c1c
+    - !<own> 46163bc3-7e12-5640-8e79-d8c3124acb2a
+    - !<own> 7e7309b0-cfc9-73b0-855d-a6780eeaee67
+    - !<own> 12a82271-310d-4f1d-d1d8-9368208a3654
+- !<AssetImportMetadata/0c4d8315-d51c-768b-43d8-a0e65602665d>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 4e80ec51-d5fe-46aa-933b-069285968e13
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 4e80ec51-d5fe-46aa-933b-069285968e13
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/12a82271-310d-4f1d-d1d8-9368208a3654>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> d1c9d245-c28b-49ef-9bb1-168130119db7
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> d1c9d245-c28b-49ef-9bb1-168130119db7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 15ceccc3-5ff9-4a85-9a6e-6587cfdd9792
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/15ceccc3-5ff9-4a85-9a6e-6587cfdd9792>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7e0ba9ec-43d6-4c53-baed-965c1c5fdd9a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+- !<ScriptAssetData/1e9e4875-e872-4bdc-8fdf-e5b25ee1f552>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 06bc24d9-59f7-41c7-8df0-d494dc4b0c2b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+- !<AssetImportMetadata/31776c4d-d3c4-bbc6-b40f-9f80340adf99>
+  ImportedAssetIds:
+    Material: !<reference> 8ffc27f4-eae3-4957-a904-68ac08923d40
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 8ffc27f4-eae3-4957-a904-68ac08923d40
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/39a2264d-61fb-fdbb-613e-f7506a231944>
+  ImportedAssetIds:
+    Font: !<reference> 593fdda3-deae-44d9-8c7d-4f59b64ec282
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 593fdda3-deae-44d9-8c7d-4f59b64ec282
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/423d7fa3-1f51-5113-9a67-ca27490f93b5>
+  ImportedAssetIds:
+    Material: !<reference> eefb3038-7ca5-493e-908f-f83087dfea03
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> eefb3038-7ca5-493e-908f-f83087dfea03
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/46163bc3-7e12-5640-8e79-d8c3124acb2a>
+  ImportedAssetIds:
+    RenderTarget: !<reference> a9399c37-7b02-45b9-814f-927cc0410a80
+  ImporterName: RenderTargetImporter
+  PrimaryAsset: !<reference> a9399c37-7b02-45b9-814f-927cc0410a80
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/479c24c7-0551-7127-de93-d72619e43ebd>
+  ImportedAssetIds:
+    Material: !<reference> 51cbd35e-b315-4459-8131-f137d58e815d
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 51cbd35e-b315-4459-8131-f137d58e815d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/4a9bfa77-0ee7-f88a-8a05-43c69e8bf59f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 8bcfe470-7ed3-42d4-8653-be5d76a52ae5
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 8bcfe470-7ed3-42d4-8653-be5d76a52ae5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> ef2f1eeb-e528-4b27-949a-a62a1f723ce2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/632a4e7d-62fc-6b24-a8c0-09f1d4490f9f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 1874e862-ab95-45d1-abc3-52a42bdc762a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 1874e862-ab95-45d1-abc3-52a42bdc762a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 1e9e4875-e872-4bdc-8fdf-e5b25ee1f552
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/70bf4d0d-ab6b-7f0c-091f-473bab99a0bc>
+  ImportedAssetIds:
+    Font: !<reference> ebd4bdcb-794d-4a59-8c96-cacc3d3594fd
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> ebd4bdcb-794d-4a59-8c96-cacc3d3594fd
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/73ff202d-c347-24f5-77d2-4a21e7390872>
+  ImportedAssetIds:
+    Font: !<reference> 224d6f7b-2c1e-432b-97eb-6c166def4520
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 224d6f7b-2c1e-432b-97eb-6c166def4520
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7e7309b0-cfc9-73b0-855d-a6780eeaee67>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> f3bbb715-48f9-48c3-b78a-ada9f8d593de
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> f3bbb715-48f9-48c3-b78a-ada9f8d593de
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/939e4479-b561-bc3e-314d-fc342c78de3f>
+  ImportedAssetIds:
+    MarkdownAsset: !<reference> 2e32353a-ba1a-45e7-83fd-d0e93188f29d
+  ImporterName: MarkdownAssetImporter
+  PrimaryAsset: !<reference> 2e32353a-ba1a-45e7-83fd-d0e93188f29d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/99cc7484-cd45-70c3-8830-89b4016690fa>
+  ImportedAssetIds:
+    Font: !<reference> 026a9ffd-f967-4afa-b0f7-7b9b78dab2ce
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 026a9ffd-f967-4afa-b0f7-7b9b78dab2ce
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/9f2ad42c-12a1-c5dc-7dd0-f0e066d65dc0>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> a823e1b4-2d24-4c58-a585-ec85b31e0259
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> a823e1b4-2d24-4c58-a585-ec85b31e0259
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a8b0f839-e691-3bea-4143-9b76a5ec5f7b>
+  ImportedAssetIds:
+    Material: !<reference> 0c873f60-aec7-451c-b95c-851a5fba3f0d
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 0c873f60-aec7-451c-b95c-851a5fba3f0d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/ad0dabf4-ae6a-f5ec-0a1d-cef79d2e986d>
+  ImportedAssetIds:
+    Font: !<reference> 314bf989-350d-4100-90d4-74fa1abc3b99
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 314bf989-350d-4100-90d4-74fa1abc3b99
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/b157dd97-5e87-26dd-2322-d99b0804ca96>
+  ImportedAssetIds:
+    Font: !<reference> 94b7dfcb-dbb8-4e39-b469-065a8c5962d1
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 94b7dfcb-dbb8-4e39-b469-065a8c5962d1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/dc25e4a7-7ee2-a0b1-1f25-26047a586c1c>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> e7cd0913-9b1a-4223-a942-ddab6dd40b6e
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> e7cd0913-9b1a-4223-a942-ddab6dd40b6e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/dda912ff-8421-1950-c784-6017b67c4532>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> fbee95e6-fd83-4ca4-ad15-a3c900fbd9cf
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> fbee95e6-fd83-4ca4-ad15-a3c900fbd9cf
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> fd087bb7-e398-4ad9-ac56-7a257d9dd8aa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/dfaac297-a1c0-01da-c494-6536a1188f08>
+  ImportedAssetIds:
+    Font: !<reference> d97c38af-f1b7-404a-b824-f4e271337a04
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> d97c38af-f1b7-404a-b824-f4e271337a04
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/e3ffb023-c7a4-a797-2d4b-424dcd6623a2>
+  ImportedAssetIds:
+    Font: !<reference> c7d6a05f-cf69-4a63-970a-587376afc9ff
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> c7d6a05f-cf69-4a63-970a-587376afc9ff
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/ed919abe-95ce-560e-bf61-1d556c4fdffa>
+  ImportedAssetIds:
+    Font: !<reference> 4c8210e4-102c-48bc-b63a-1f7ea3d587f0
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 4c8210e4-102c-48bc-b63a-1f7ea3d587f0
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/ef2f1eeb-e528-4b27-949a-a62a1f723ce2>
+  SvgIcon: '<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126.41 126.41"><defs><style>.cls-1,.cls-2,.cls-3{stroke-width:0px;}.cls-1,.cls-4{fill:none;}.cls-2{fill:#000;}.cls-4{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:7px;}.cls-3{fill:#fff;}</style></defs><g id="Layer_1-2"><rect class="cls-3" x="8.55" y="8.55" width="109.31" height="109.31" rx="39.34" ry="39.34"/><path class="cls-2" d="M58.14,80.44c.88,7.56-5.22,12.07-12.1,15.4-5.66,2.73-11.99,3.14-16.5,2.96-2.55-.1-4.05-2.9-2.71-5.08,1.53-2.5,3.14-5.94,3.73-9.98,1.11-7.63,4.51-14.62,12.22-15.5s14.5,4.69,15.37,12.19Z"/><path class="cls-2" d="M95.34,27.13l.15.13c.87.79,1.5,1.75,1.9,2.77.95,2.45.56,5.33-1.25,7.47l-29.1,36.61c-1.12,1.32-2.89,1.74-4.42,1.21-.08-.24-.16-.47-.25-.71h0c-2.04-5.26-6.6-9.11-12.01-10.33-.11-.18-.2-.37-.28-.56-.56-1.44-.27-3.15.9-4.32l34.1-32.03c2.8-2.82,7.33-2.93,10.26-.25Z"/><path class="cls-4" d="M65.74,25.66h-16.29c-12.87,0-23.38,10.26-23.7,23.12l-.43,17.45"/><path class="cls-4" d="M60.34,101.24h16.29c12.87,0,23.38-10.26,23.7-23.12l.43-17.45"/><rect class="cls-1" width="126.41" height="126.41"/></g></svg>'
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 1
+  VersionMinor: 4
+  VersionPatch: 13
+  ComponentUid: fbb790fc-68b4-48e0-ac47-57cf538a226a
+  ExportUid: 8dc11a12-922a-4dc1-a1d3-b8d507eab2c0
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    backgroundMaterial: true
+    baseRenderOrder: false
+    customFont1: false
+    customFont2: false
+    customFont3: false
+    customFont4: false
+    fonts: true
+    gaussBlurMaterial: true
+    onscreenMaterial: true
+    overlayRT: true
+    vectorMaterial: true
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 2e32353a-ba1a-45e7-83fd-d0e93188f29d
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - vectorMaterial: !<reference.Material> 8ffc27f4-eae3-4957-a904-68ac08923d40
+      backgroundMaterial: !<reference.Material> 51cbd35e-b315-4459-8131-f137d58e815d
+      onscreenMaterial: !<reference.Material> 0c873f60-aec7-451c-b95c-851a5fba3f0d
+      gaussBlurMaterial: !<reference.Material> eefb3038-7ca5-493e-908f-f83087dfea03
+      overlayRT: !<reference.Texture> a9399c37-7b02-45b9-814f-927cc0410a80
+      fonts: !<reference.Font[]>
+        - !<reference> 4c8210e4-102c-48bc-b63a-1f7ea3d587f0
+        - !<reference> ebd4bdcb-794d-4a59-8c96-cacc3d3594fd
+        - !<reference> 94b7dfcb-dbb8-4e39-b469-065a8c5962d1
+        - !<reference> c7d6a05f-cf69-4a63-970a-587376afc9ff
+        - !<reference> 224d6f7b-2c1e-432b-97eb-6c166def4520
+        - !<reference> 99d1ae8d-dd46-4edf-8d9e-3f88db2ac47d
+        - !<reference> d97c38af-f1b7-404a-b824-f4e271337a04
+        - !<reference> 593fdda3-deae-44d9-8c7d-4f59b64ec282
+        - !<reference> 026a9ffd-f967-4afa-b0f7-7b9b78dab2ce
+        - !<reference> 1671481b-7d98-42dc-8730-fc2fa2420595
+        - !<reference> 314bf989-350d-4100-90d4-74fa1abc3b99
+      customFont1: !<reference.Font> 00000000-0000-0000-0000-000000000000
+      customFont2: !<reference.Font> 00000000-0000-0000-0000-000000000000
+      customFont3: !<reference.Font> 00000000-0000-0000-0000-000000000000
+      customFont4: !<reference.Font> 00000000-0000-0000-0000-000000000000
+      baseRenderOrder: -3000
+  ScriptTypes:
+    -
+      {}
+- !<AssetImportMetadata/f1b30e47-785e-9932-1b3e-b064888f3102>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 76061aff-42b7-4558-9d57-d02f646dad9e
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 76061aff-42b7-4558-9d57-d02f646dad9e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/f206ab57-3068-5f6a-3f67-04e406e1957b>
+  ImportedAssetIds:
+    Font: !<reference> 99d1ae8d-dd46-4edf-8d9e-3f88db2ac47d
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 99d1ae8d-dd46-4edf-8d9e-3f88db2ac47d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/f569204a-43ca-01ba-7da2-c1982e96903b>
+  ImportedAssetIds:
+    Font: !<reference> 1671481b-7d98-42dc-8730-fc2fa2420595
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 1671481b-7d98-42dc-8730-fc2fa2420595
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/fd087bb7-e398-4ad9-ac56-7a257d9dd8aa>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 45f1efc4-35ef-42ed-a4af-4ed001f64668
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}

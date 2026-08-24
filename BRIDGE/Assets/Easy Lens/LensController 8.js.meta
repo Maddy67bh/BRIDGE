@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/23615d81-65e6-4ca6-8e2f-a386081a513a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> b47288db-c8a3-4986-aa9f-b7a427c7e1e8
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> b47288db-c8a3-4986-aa9f-b7a427c7e1e8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2e115557-d591-4960-9b72-9482ed08bd26
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2e115557-d591-4960-9b72-9482ed08bd26>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: cf07b5d1-a1af-4ef1-b8da-a74945af722a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bridge_canvas: false
+    bridge_instructions: false
+    bridge_title: false
+    linkspace_hint: false
+    linkspace_subtitle: false
+    linkspace_title: false
+    sik_tap_safety: false
+    touch_events: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bridge_canvas: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      bridge_title: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      bridge_instructions: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_title: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_subtitle: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      linkspace_hint: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      sik_tap_safety: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      touch_events: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
